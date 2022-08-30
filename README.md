@@ -1,7 +1,7 @@
-## Hi, I'm Youssef 👋
+## Hi, I'm Amr 👋
 
-<a href="https://www.linkedin.com/in/youssefashraf31/" target="_blank">
-<img alt="Youssef's LinkdeIn" src="https://img.shields.io/badge/Youssef Ashraf-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/amr-ahmed-b5392a223/" target="_blank">
+<img alt="Amr's LinkdeIn" src="https://img.shields.io/badge/Amr%20Ahmed-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:youssefashrafeissa@gmail.com" target="_blank">
